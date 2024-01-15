@@ -30,7 +30,8 @@ export default {
         '3000': '3000ms',
       },
       backgroundImage: {
-        'hero-pattern': "url('./src/assets/images/my-profile.jpg')",
+        // 'hero-pattern': "url('./src/assets/images/my-profile.jpg')",
+        'hero-pattern': "url('./assets/images/my-profile.jpg')",
         'footer-pattern': "url('./src/assets/images/footer-bg.jpg')",
       },
       animation: {

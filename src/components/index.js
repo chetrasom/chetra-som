@@ -9,3 +9,4 @@ export { default as Projects } from './Projects';
 export { default as Contact } from './Contact';
 export { default as Footer } from './Footer';
 export { default as ScrollTop } from './ScrollTop';
+export { default as LazyLoadImg } from './LazyLoadImg';

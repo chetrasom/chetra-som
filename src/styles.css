@@ -1,7 +1,11 @@
+.lazy-load-image-background.blur.lazy-load-image-loaded {
+    width: 100%;
+    height: 100%;
+}
 
 .box {
-    /* background: url('./assets/images/my-profile.jpg');
-    background-size: cover;
+    /* background: url('./assets/images/my-profile.jpg'); */
+    /* background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     width: 550px;
