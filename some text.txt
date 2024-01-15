@@ -1,0 +1,21 @@
+wavang.com
+tfssr.com
+
+=> Hero section
+
++ Paragraph 01:
+
+A passionate Front-end React Developer. I enjoy working on every aspect of web development, from the user interface to the server logic.
+
++ Paragraph 02:
+
+A front-end developer focused on creating beautiful and user friendly application while writing clean code.
+
++ Paragraph 03:
+
+Hi, my name is Chetra Som. I am a passionate front-end developer. focused on creating beautiful and user-friendly websites and web applications.
+
+
+=> About section
+
+I am a passionate front-end developer. I am a dedicated and enthusiastic developer with a passion for coding and problem-solving. I possess an impressive arsenal of skills in HTML, CSS, JavaScript, React, Tailwind, and SCSS. I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives on collaborating with cross-functional teams to produce outstanding web applications.
